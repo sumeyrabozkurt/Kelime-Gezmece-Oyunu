@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="level1Skor" android:id="@+id/level1Skor"/>
+    <item android:id="@+id/level2Skor" android:title="level2Skor"/>
+    <item android:title="level3Skor" android:id="@+id/level3Skor"/>
+</menu>

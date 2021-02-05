@@ -1,0 +1,10 @@
+SAP;PAS;AS;
+KAŞ;AŞK;AK;
+FİL;LİF;İL;
+ŞUT;TUŞ;
+ÇİN;İNÇ;İÇ;
+ÇOK;KOÇ;OK;
+KAY;YAK;AY;
+MAT;TAM;AT;
+SÜT;ÜST;
+KOY;YOK;

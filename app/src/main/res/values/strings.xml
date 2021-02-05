@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kelime Gezmece</string>
+
+    <string name="loading">Oyun Hazırlanıyor...</string>
+
+    <string name="submit">Tamamlandı</string>
+
+</resources>
